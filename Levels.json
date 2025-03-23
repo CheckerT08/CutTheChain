@@ -2,9 +2,12 @@
   "levels": [
     { "sceneName": "A0", "gamemode": 0, "levelId": 0,
         "challenges": [ 
-        {"comparisonMode": "Minimum", "targetObjType": "Cushion", "value": 3}
+            {"comparisonMode": "Minimum", "targetObjType": "Cushion", "value": 3}
         ]},
-    { "sceneName": "A1", "gamemode": 0, "levelId": 1 },
+    { "sceneName": "A1", "gamemode": 0, "levelId": 1 ,
+        "challenges": [
+            {"comparisonMode": "Minimum", "targetObjType": "Bubble", "value": 3}
+        ]},
     { "sceneName": "A2", "gamemode": 0, "levelId": 2 },
     { "sceneName": "A3", "gamemode": 0, "levelId": 3 },
     { "sceneName": "A4", "gamemode": 0, "levelId": 4 },
