@@ -10,7 +10,7 @@
         ]},
     { "sceneName": "A2", "gamemode": 0, "levelId": 2 ,
         "challenges": [
-            {"comparisonMode": "Maximum", "targetObjType": "Bubble", "value": 5}
+            {"comparisonMode": "Maximum", "targetObjType": "Bubble", "value": 5},
             {"comparisonMode": "Minimum", "targetObjType": "GreenBall", "value": 2}
         ]},
     { "sceneName": "A3", "gamemode": 0, "levelId": 3 },
