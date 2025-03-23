@@ -6,9 +6,13 @@
         ]},
     { "sceneName": "A1", "gamemode": 0, "levelId": 1 ,
         "challenges": [
-            {"comparisonMode": "Minimum", "targetObjType": "Bubble", "value": 3}
+            {"comparisonMode": "Maximum", "targetObjType": "Bubble", "value": 5}
         ]},
-    { "sceneName": "A2", "gamemode": 0, "levelId": 2 },
+    { "sceneName": "A2", "gamemode": 0, "levelId": 2 ,
+        "challenges": [
+            {"comparisonMode": "Maximum", "targetObjType": "Bubble", "value": 5}
+            {"comparisonMode": "Minimum", "targetObjType": "GreenBall", "value": 2}
+        ]},
     { "sceneName": "A3", "gamemode": 0, "levelId": 3 },
     { "sceneName": "A4", "gamemode": 0, "levelId": 4 },
     { "sceneName": "A5", "gamemode": 0, "levelId": 5 },
