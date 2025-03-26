@@ -1,0 +1,318 @@
+/* Allgemein */
+body {
+  background-color: #1a1a1a;
+  font-family: 'Helvetica', 'Arial', sans-serif;
+  color: #e0e0e0;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+  overflow-x: hidden;
+}
+
+/* Überschriften */
+h1, h2, h3 {
+  font-family: "Fjalla One", sans-serif;
+  text-align: center;
+  margin: 20px 0;
+}
+
+h1 {
+  font-size: 60px;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+h3 {
+  font-size: 24px;
+}
+
+/* Absätze */
+p, li {
+  padding: 10px 20px;
+  font-size: 17px;
+  text-align: justify;
+  margin: 0 auto;
+}
+
+/* Links */
+a {
+  color: #66aaff;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #88cfff;
+}
+
+/* Titel Image */
+.TopImage {
+  position: relative;
+}
+
+.TopImage img {
+  width: 100vw;
+  height: 100vh;
+  object-fit: cover;
+}
+
+.TopImageContent {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  background: rgba(0, 0, 0, 0.6);
+  color: #f1f1f1;
+  padding: 20px;
+}
+
+/* Button-Styling */
+.DownloadButton, .SmallDownloadButton, .MechanicButton {
+  display: inline-block;
+  font-weight: 600;
+  color: #fff;
+  background-color: #0055ff;
+  border-radius: 12px;
+  text-decoration: none;
+  transition: 0.3s;
+  text-align: center;
+  cursor: pointer;
+  border: none;
+}
+
+.DownloadButton {
+  padding: 15px 40px;
+  font-size: 24px;
+  margin: 20px;
+}
+
+.SmallDownloadButton {
+  padding: 8px 15px;
+  font-size: 16px;
+  margin: 20px;
+}
+
+.MechanicButton {
+  padding: 8px 15px;
+  font-size: 16px;
+  margin: 20px;
+}
+
+.DownloadButton:hover, .SmallDownloadButton:hover, .MechanicButton:hover {
+  background-color: #003bb5;
+}
+
+/* Button-Container */
+.ButtonContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 15px;
+}
+
+/* Text auf How To Play Seite */
+.htp {
+  max-width: 70vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+  padding: 20px 0;
+}
+
+/* Container für Text + Bild */
+.htp-container {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+/* Textbereich */
+.htp-text {
+  flex: 1;
+  padding: 15px;
+}
+
+/* Bildbereich */
+.htp-image {
+  width: 150px;
+  height: 150px;
+  margin-left: 20px;
+}
+
+.htp-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  background-color: black;
+  padding: 5px;
+  border-radius: 10px;
+}
+
+.editor {
+    width: auto;
+    height: auto;
+    max-width: 70vw;
+    max-height: 70vh;
+    display: block;
+    margin: 50px auto 0px auto;
+    object-fit: contain;
+}
+
+/* Tabellen */
+table {
+  border: 1px solid #444444;
+  border-collapse: collapse;
+  width: 90%;
+  margin: 20px auto;
+  table-layout: fixed;
+  background: #2a2a2a;
+  color: #e0e0e0;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+th, td {
+  border: 1px solid #555;
+  padding: 12px;
+  text-align: left;
+}
+
+th {
+  font-size: 24px;
+  background-color: #333;
+}
+
+td {
+  font-size: 16px;
+}
+
+/* News-Bereich */
+.HomepageElement {
+  background-color: #2a2a2a;
+  border-radius: 15px;
+  padding: 20px;
+  margin: 50px 20px;
+}
+
+.ElementBody {
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 20px;
+  justify-content: space-between;
+  overflow-x: auto;
+  padding: 20px;
+}
+
+.ElementBox {
+  background: #ffffff;
+  color: #222;
+  padding: 20px;
+  border-radius: 10px;
+  width: 30%;
+  min-width: 300px;
+  text-align: center;
+  height: 400px;
+}
+
+.ElementBox img {
+  width: 100%;
+  height: 50%;
+  object-fit: contain;
+  border-radius: 10px;
+  display: block;
+  margin: auto;
+  background-color: black; 
+}
+
+.ElementBox video {
+  width: 100%;
+  height: 50%;
+  object-fit: contain;
+  border-radius: 10px;
+  display: block;
+  margin: auto;
+  background-color: black; 
+}
+
+.ElementBox h3 {
+  margin-top: 10px;
+  font-size: 24px;
+}
+
+.ElementBox p {
+  font-size: 16px;
+}
+
+/* Mechanic-Sektionen */
+.MechanicSection {
+  background-color: #ff3b50;
+  padding: 50px;
+  border-radius: 15px;
+  margin: 50px auto;
+}
+
+.MechanicContent {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 50px;
+}
+
+.MechanicContent img {
+  width: 45%;
+  max-height: 500px;
+  object-fit: contain;
+}
+
+.MechanicText {
+  width: 45%;
+  color: #fff;
+  text-align: left;
+}
+
+.MechanicText p {
+  font-size: 17px;
+  line-height: 1.5;
+  margin-bottom: 30px;
+}
+
+/* Changelog- und No-Download-Bereiche */
+.version {
+  padding: 10px;
+  background: #2a2a2a;
+  border-radius: 15px;
+  width: 90vw;
+  margin: 20px auto 0px auto;
+}
+
+.version h2 {
+  margin: 0 0 10px 0;
+}
+
+.no-download {
+  text-align: center;
+  padding: 50px;
+}
+
+.no-download h1 {
+  font-size: 40px;
+  margin-bottom: 20px;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .MechanicContent {
+    flex-direction: column;
+  }
+  .MechanicContent img, .MechanicText {
+    width: 100%;
+  }
+  .ElementBody {
+    flex-direction: column;
+    align-items: center;
+  }
+}
