@@ -83,9 +83,22 @@
             { "comparisonMode": "Maximum", "targetObjType": "Star", "value": 2 }
         ]},
 
-    { "sceneName": "B6", "gamemode": 0, "levelId": 16 },
-    { "sceneName": "B7", "gamemode": 0, "levelId": 17 },
-    { "sceneName": "B8", "gamemode": 0, "levelId": 18 },
+    { "sceneName": "B6", "gamemode": 0, "levelId": 16 ,
+        "challenges": [
+            { "comparisonMode": "Equal", "targetObjType": "Star", "value": 3 },
+            { "comparisonMode": "Minimum", "targetObjType": "Time", "value": 7 }
+        ]},
+
+    { "sceneName": "B7", "gamemode": 0, "levelId": 17 ,
+        "challenges": [
+            { "comparisonMode": "Equal", "targetObjType": "BreakPlatform", "value": 5 }
+        ]},
+
+    { "sceneName": "B8", "gamemode": 0, "levelId": 17 ,
+        "challenges": [
+            { "comparisonMode": "Equal", "targetObjType": "BreakPlatform", "value": 5 }
+        ]},
+
     { "sceneName": "B9", "gamemode": 0, "levelId": 19 },
     
     { "sceneName": "C0", "gamemode": 0, "levelId": 20 },
