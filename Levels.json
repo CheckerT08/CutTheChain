@@ -3,225 +3,454 @@
     { "sceneName": "A0", "gamemode": 0, "levelId": 0,
         "challenges": [ 
             { "comparisonMode": "Maximum", "targetObjType": "Star", "value": 1 }
-        ]},
+        ],
+        "display": "Level A0" },
 
     { "sceneName": "A1", "gamemode": 0, "levelId": 1,
         "challenges": [
             { "comparisonMode": "Equal", "targetObjType": "Star", "value": 0 }
-        ]},
+        ],
+        "display": "Level A1" },
 
     { "sceneName": "A2", "gamemode": 0, "levelId": 2,
         "challenges": [
             { "comparisonMode": "Equal", "targetObjType": "Star", "value": 3 }
-        ]},
+        ],
+        "display": "Level A2" },
 
     { "sceneName": "A3", "gamemode": 0, "levelId": 3,
         "challenges": [
             { "comparisonMode": "Maximum", "targetObjType": "Chain", "value": 1 }
-        ]},
+        ],
+        "display": "Level A3" },
 
     { "sceneName": "A4", "gamemode": 0, "levelId": 4,
         "challenges": [
             { "comparisonMode": "Equal", "targetObjType": "Chain", "value": 2 },
             { "comparisonMode": "Maximum", "targetObjType": "Star", "value": 1 }
-        ]},
+        ],
+        "display": "Level A4" },
 
     { "sceneName": "A5", "gamemode": 0, "levelId": 5,
         "challenges": [
             { "comparisonMode": "Maximum", "targetObjType": "Star", "value": 1 }
-        ]},
+        ],
+        "display": "Level A5" },
 
     { "sceneName": "A6", "gamemode": 0, "levelId": 6,
         "challenges": [
             { "comparisonMode": "Minimum", "targetObjType": "Time", "value": 10 }
-        ]},
+        ],
+        "display": "Level A6" },
 
     { "sceneName": "A7", "gamemode": 0, "levelId": 7,
         "challenges": [
             { "comparisonMode": "Equal", "targetObjType": "Star", "value": 0 }
-        ]},
+        ],
+        "display": "Level A7" },
 
     { "sceneName": "A8", "gamemode": 0, "levelId": 8,
         "challenges": [
             { "comparisonMode": "Equal", "targetObjType": "Star", "value": 2 }
-        ]},
+        ],
+        "display": "Level A8" },
 
     { "sceneName": "A9", "gamemode": 0, "levelId": 9,
         "challenges": [
             { "comparisonMode": "Minimum", "targetObjType": "Star", "value": 2 },
             { "comparisonMode": "Equal", "targetObjType": "Chain", "value": 1 }
-        ]},
-
+        ],
+        "display": "Level A9" },
 
     { "sceneName": "B0", "gamemode": 0, "levelId": 10,
         "challenges": [
             { "comparisonMode": "Equal", "targetObjType": "Star", "value": 0 }
-        ]},
+        ],
+        "display": "Level B0" },
 
     { "sceneName": "B1", "gamemode": 0, "levelId": 11,
         "challenges": [
             { "comparisonMode": "Maximum", "targetObjType": "Star", "value": 2 }
-        ]},
+        ],
+        "display": "Level B1" },
 
     { "sceneName": "B2", "gamemode": 0, "levelId": 12,
         "challenges": [
             { "comparisonMode": "Equal", "targetObjType": "Star", "value": 2 }
-        ]},
+        ],
+        "display": "Level B2" },
 
     { "sceneName": "B3", "gamemode": 0, "levelId": 13,
         "challenges": [
             { "comparisonMode": "Maximum", "targetObjType": "Star", "value": 2 }
-        ]},
+        ],
+        "display": "Level B3" },
 
     { "sceneName": "B4", "gamemode": 0, "levelId": 14,
         "challenges": [
             { "comparisonMode": "Minimum", "targetObjType": "Time", "value": 6 }
-        ]},
+        ],
+        "display": "Level B4" },
 
     { "sceneName": "B5", "gamemode": 0, "levelId": 15,
         "challenges": [
             { "comparisonMode": "Maximum", "targetObjType": "Star", "value": 2 }
-        ]},
+        ],
+        "display": "Level B5" },
 
     { "sceneName": "B6", "gamemode": 0, "levelId": 16,
         "challenges": [
             { "comparisonMode": "Equal", "targetObjType": "Star", "value": 3 },
             { "comparisonMode": "Minimum", "targetObjType": "Time", "value": 7 }
-        ]},
+        ],
+        "display": "Level B6" },
 
     { "sceneName": "B7", "gamemode": 0, "levelId": 17,
         "challenges": [
             { "comparisonMode": "Equal", "targetObjType": "BreakPlatform", "value": 5 }
-        ]},
+        ],
+        "display": "Level B7" },
 
     { "sceneName": "B8", "gamemode": 0, "levelId": 18,
         "challenges": [
             { "comparisonMode": "Minimum", "targetObjType": "Time", "value": 5 }
-        ]},
+        ],
+        "display": "Level B8" },
 
     { "sceneName": "B9", "gamemode": 0, "levelId": 19,
         "challenges": [
             { "comparisonMode": "Equal", "targetObjType": "Chain", "value": 4 }
-        ]},
+        ],
+        "display": "Level B9" },
 
     { "sceneName": "C0", "gamemode": 0, "levelId": 20,
         "challenges": [
             { "comparisonMode": "Maximum", "targetObjType": "Star", "value": 2 },
             { "comparisonMode": "Minimum", "targetObjType": "Time", "value": 5 }
-        ]},
+        ],
+        "display": "Level C0" },
 
     { "sceneName": "C1", "gamemode": 0, "levelId": 21,
         "challenges": [
             { "comparisonMode": "Equal", "targetObjType": "Chain", "value": 4 }
-        ]},
+        ],
+        "display": "Level C1" },
 
     { "sceneName": "C2", "gamemode": 0, "levelId": 22,
         "challenges": [
             { "comparisonMode": "Equal", "targetObjType": "Chain", "value": 2 },
             { "comparisonMode": "Equal", "targetObjType": "Bubble", "value": 1 }
-        ]},
+        ],
+        "display": "Level C2" },
 
     { "sceneName": "C3", "gamemode": 0, "levelId": 23,
         "challenges": [
             { "comparisonMode": "Maximum", "targetObjType": "Star", "value": 1 }
-        ]},
+        ],
+        "display": "Level C3" },
 
     { "sceneName": "C4", "gamemode": 0, "levelId": 24,
         "challenges": [
             { "comparisonMode": "Maximum", "targetObjType": "Star", "value": 1 }
-        ]},
+        ],
+        "display": "Level C4" },
 
     { "sceneName": "C5", "gamemode": 0, "levelId": 25,
         "challenges": [
             { "comparisonMode": "Equal", "targetObjType": "Star", "value": 0 }
-        ]},
+        ],
+        "display": "Level C5" },
 
     { "sceneName": "C6", "gamemode": 0, "levelId": 26,
         "challenges": [
             { "comparisonMode": "Maximum", "targetObjType": "Chain", "value": 3 },
             { "comparisonMode": "Minimum", "targetObjType": "Star", "value": 2 }
-        ]},
+        ],
+        "display": "Level C6" },
 
     { "sceneName": "C7", "gamemode": 0, "levelId": 27,
         "challenges": [
             { "comparisonMode": "Equal", "targetObjType": "Star", "value": 2 }
-        ]},
+        ],
+        "display": "Level C7" },
 
     { "sceneName": "C8", "gamemode": 0, "levelId": 28,
         "challenges": [
             { "comparisonMode": "Equal", "targetObjType": "Bubble", "value": 1 },
             { "comparisonMode": "Equal", "targetObjType": "Star", "value": 3 }
-        ]},
+        ],
+        "display": "Level C8" },
 
-    { "sceneName": "C9", "gamemode": 0, "levelId": 29 },
-    
-    { "sceneName": "D0", "gamemode": 0, "levelId": 30 },
-    { "sceneName": "D1", "gamemode": 0, "levelId": 31 },
-    { "sceneName": "D2", "gamemode": 0, "levelId": 32 },
-    { "sceneName": "D3", "gamemode": 0, "levelId": 33 },
-    { "sceneName": "D4", "gamemode": 0, "levelId": 34 },
-    { "sceneName": "D5", "gamemode": 0, "levelId": 35 },
-    { "sceneName": "D6", "gamemode": 0, "levelId": 36 },
-    { "sceneName": "D7", "gamemode": 0, "levelId": 37 },
-    { "sceneName": "D8", "gamemode": 0, "levelId": 38 },
-    { "sceneName": "D9", "gamemode": 0, "levelId": 39 },
-    
-    { "sceneName": "E0", "gamemode": 0, "levelId": 40 },
-    { "sceneName": "E1", "gamemode": 0, "levelId": 41 },
-    { "sceneName": "E2", "gamemode": 0, "levelId": 42 },
-    { "sceneName": "E3", "gamemode": 0, "levelId": 43 },
-    { "sceneName": "E4", "gamemode": 0, "levelId": 44 },
-    { "sceneName": "E5", "gamemode": 0, "levelId": 45 },
-    { "sceneName": "E6", "gamemode": 0, "levelId": 46 },
-    { "sceneName": "E7", "gamemode": 0, "levelId": 47 },
-    { "sceneName": "E8", "gamemode": 0, "levelId": 48 },
-    { "sceneName": "E9", "gamemode": 0, "levelId": 49 },
-    
-    { "sceneName": "F0", "gamemode": 0, "levelId": 50 },
-    { "sceneName": "F1", "gamemode": 0, "levelId": 51 },
-    { "sceneName": "F2", "gamemode": 0, "levelId": 52 },
-    { "sceneName": "F3", "gamemode": 0, "levelId": 53 },
-    { "sceneName": "F4", "gamemode": 0, "levelId": 54 },
-    { "sceneName": "F5", "gamemode": 0, "levelId": 55 },
-    { "sceneName": "F6", "gamemode": 0, "levelId": 56 },
-    { "sceneName": "F7", "gamemode": 0, "levelId": 57 },
-    { "sceneName": "F8", "gamemode": 0, "levelId": 58 },
-    { "sceneName": "F9", "gamemode": 0, "levelId": 59 },
-    
-    { "sceneName": "G0", "gamemode": 0, "levelId": 60 },
-    { "sceneName": "G1", "gamemode": 0, "levelId": 61 },
-    { "sceneName": "G2", "gamemode": 0, "levelId": 62 },
-    { "sceneName": "G3", "gamemode": 0, "levelId": 63 },
-    { "sceneName": "G4", "gamemode": 0, "levelId": 64 },
-    { "sceneName": "G5", "gamemode": 0, "levelId": 65 },
-    { "sceneName": "G6", "gamemode": 0, "levelId": 66 },
-    { "sceneName": "G7", "gamemode": 0, "levelId": 67 },
-    { "sceneName": "G8", "gamemode": 0, "levelId": 68 },
-    { "sceneName": "G9", "gamemode": 0, "levelId": 69 },
-    
-    { "sceneName": "H0", "gamemode": 0, "levelId": 70 },
-    { "sceneName": "H1", "gamemode": 0, "levelId": 71 },
-    { "sceneName": "H2", "gamemode": 0, "levelId": 72 },
-    { "sceneName": "H3", "gamemode": 0, "levelId": 73 },
-    { "sceneName": "H4", "gamemode": 0, "levelId": 74 },
-    { "sceneName": "H5", "gamemode": 0, "levelId": 75 },
-    { "sceneName": "H6", "gamemode": 0, "levelId": 76 },
-    { "sceneName": "H7", "gamemode": 0, "levelId": 77 },
-    { "sceneName": "H8", "gamemode": 0, "levelId": 78 },
-    { "sceneName": "H9", "gamemode": 0, "levelId": 79 },
-    
-    { "sceneName": "I0", "gamemode": 0, "levelId": 80 },
-    { "sceneName": "I1", "gamemode": 0, "levelId": 81 },
-    { "sceneName": "I2", "gamemode": 0, "levelId": 82 },
-    { "sceneName": "I3", "gamemode": 0, "levelId": 83 },
-    
-    { "sceneName": "EXP_A0", "gamemode": 1, "levelId": 0 },
-    { "sceneName": "EXP_A1", "gamemode": 1, "levelId": 1 },
-    { "sceneName": "EXP_A2", "gamemode": 1, "levelId": 2 },
-    { "sceneName": "EXP_A3", "gamemode": 1, "levelId": 3 },
-    { "sceneName": "EXP_A4", "gamemode": 1, "levelId": 4 },
-    { "sceneName": "EXP_A5", "gamemode": 1, "levelId": 5 },
-    { "sceneName": "EXP_A6", "gamemode": 1, "levelId": 6 },
-    { "sceneName": "EXP_A7", "gamemode": 1, "levelId": 7 }
+    { "sceneName": "C9", "gamemode": 0, "levelId": 29,
+        "challenges": [],
+        "display": "Level C9" },
+
+    { "sceneName": "D0", "gamemode": 0, "levelId": 30,
+        "challenges": [],
+        "display": "Level D0" },
+
+    { "sceneName": "D1", "gamemode": 0, "levelId": 31,
+        "challenges": [],
+        "display": "Level D1" },
+
+    { "sceneName": "D2", "gamemode": 0, "levelId": 32,
+        "challenges": [],
+        "display": "Level D2" },
+
+    { "sceneName": "D3", "gamemode": 0, "levelId": 33,
+        "challenges": [],
+        "display": "Level D3" },
+
+    { "sceneName": "D4", "gamemode": 0, "levelId": 34,
+        "challenges": [],
+        "display": "Level D4" },
+
+    { "sceneName": "D5", "gamemode": 0, "levelId": 35,
+        "challenges": [],
+        "display": "Level D5" },
+
+    { "sceneName": "D6", "gamemode": 0, "levelId": 36,
+        "challenges": [],
+        "display": "Level D6" },
+
+    { "sceneName": "D7", "gamemode": 0, "levelId": 37,
+        "challenges": [],
+        "display": "Level D7" },
+
+    { "sceneName": "D8", "gamemode": 0, "levelId": 38,
+        "challenges": [],
+        "display": "Level D8" },
+
+    { "sceneName": "D9", "gamemode": 0, "levelId": 39,
+        "challenges": [],
+        "display": "Level D9" },
+
+    { "sceneName": "E0", "gamemode": 0, "levelId": 40,
+        "challenges": [],
+        "display": "Level E0" },
+
+    { "sceneName": "E1", "gamemode": 0, "levelId": 41,
+        "challenges": [],
+        "display": "Level E1" },
+
+    { "sceneName": "E2", "gamemode": 0, "levelId": 42,
+        "challenges": [],
+        "display": "Level E2" },
+
+    { "sceneName": "E3", "gamemode": 0, "levelId": 43,
+        "challenges": [],
+        "display": "Level E3" },
+
+    { "sceneName": "E4", "gamemode": 0, "levelId": 44,
+        "challenges": [],
+        "display": "Level E4" },
+
+    { "sceneName": "E5", "gamemode": 0, "levelId": 45,
+        "challenges": [],
+        "display": "Level E5" },
+
+    { "sceneName": "E6", "gamemode": 0, "levelId": 46,
+        "challenges": [],
+        "display": "Level E6" },
+
+    { "sceneName": "E7", "gamemode": 0, "levelId": 47,
+        "challenges": [],
+        "display": "Level E7" },
+
+    { "sceneName": "E8", "gamemode": 0, "levelId": 48,
+        "challenges": [],
+        "display": "Level E8" },
+
+    { "sceneName": "E9", "gamemode": 0, "levelId": 49,
+        "challenges": [],
+        "display": "Level E9" },
+
+    { "sceneName": "F0", "gamemode": 0, "levelId": 50,
+        "challenges": [],
+        "display": "Level F0" },
+
+    { "sceneName": "F1", "gamemode": 0, "levelId": 51,
+        "challenges": [],
+        "display": "Level F1" },
+
+    { "sceneName": "F2", "gamemode": 0, "levelId": 52,
+        "challenges": [],
+        "display": "Level F2" },
+
+    { "sceneName": "F3", "gamemode": 0, "levelId": 53,
+        "challenges": [],
+        "display": "Level F3" },
+
+    { "sceneName": "F4", "gamemode": 0, "levelId": 54,
+        "challenges": [],
+        "display": "Level F4" },
+
+    { "sceneName": "F5", "gamemode": 0, "levelId": 55,
+        "challenges": [],
+        "display": "Level F5" },
+
+    { "sceneName": "F6", "gamemode": 0, "levelId": 56,
+        "challenges": [],
+        "display": "Level F6" },
+
+    { "sceneName": "F7", "gamemode": 0, "levelId": 57,
+        "challenges": [],
+        "display": "Level F7" },
+
+    { "sceneName": "F8", "gamemode": 0, "levelId": 58,
+        "challenges": [],
+        "display": "Level F8" },
+
+    { "sceneName": "F9", "gamemode": 0, "levelId": 59,
+        "challenges": [],
+        "display": "Level F9" },
+
+    { "sceneName": "G0", "gamemode": 0, "levelId": 60,
+        "challenges": [],
+        "display": "Level G0" },
+
+    { "sceneName": "G1", "gamemode": 0, "levelId": 61,
+        "challenges": [],
+        "display": "Level G1" },
+
+    { "sceneName": "G2", "gamemode": 0, "levelId": 62,
+        "challenges": [],
+        "display": "Level G2" },
+
+    { "sceneName": "G3", "gamemode": 0, "levelId": 63,
+        "challenges": [],
+        "display": "Level G3" },
+
+    { "sceneName": "G4", "gamemode": 0, "levelId": 64,
+        "challenges": [],
+        "display": "Level G4" },
+
+    { "sceneName": "G5", "gamemode": 0, "levelId": 65,
+        "challenges": [],
+        "display": "Level G5" },
+
+    { "sceneName": "G6", "gamemode": 0, "levelId": 66,
+        "challenges": [],
+        "display": "Level G6" },
+
+    { "sceneName": "G7", "gamemode": 0, "levelId": 67,
+        "challenges": [],
+        "display": "Level G7" },
+
+    { "sceneName": "G8", "gamemode": 0, "levelId": 68,
+        "challenges": [],
+        "display": "Level G8" },
+
+    { "sceneName": "G9", "gamemode": 0, "levelId": 69,
+        "challenges": [],
+        "display": "Level G9" },
+
+    { "sceneName": "H0", "gamemode": 0, "levelId": 70,
+        "challenges": [],
+        "display": "Level H0" },
+
+    { "sceneName": "H1", "gamemode": 0, "levelId": 71,
+        "challenges": [],
+        "display": "Level H1" },
+
+    { "sceneName": "H2", "gamemode": 0, "levelId": 72,
+        "challenges": [],
+        "display": "Level H2" },
+
+    { "sceneName": "H3", "gamemode": 0, "levelId": 73,
+        "challenges": [],
+        "display": "Level H3" },
+
+    { "sceneName": "H4", "gamemode": 0, "levelId": 74,
+        "challenges": [],
+        "display": "Level H4" },
+
+    { "sceneName": "H5", "gamemode": 0, "levelId": 75,
+        "challenges": [],
+        "display": "Level H5" },
+
+    { "sceneName": "H6", "gamemode": 0, "levelId": 76,
+        "challenges": [],
+        "display": "Level H6" },
+
+    { "sceneName": "H7", "gamemode": 0, "levelId": 77,
+        "challenges": [],
+        "display": "Level H7" },
+
+    { "sceneName": "H8", "gamemode": 0, "levelId": 78,
+        "challenges": [],
+        "display": "Level H8" },
+
+    { "sceneName": "H9", "gamemode": 0, "levelId": 79,
+        "challenges": [],
+        "display": "Level H9" },
+
+    { "sceneName": "I0", "gamemode": 0, "levelId": 80,
+        "challenges": [],
+        "display": "Level I0" },
+
+    { "sceneName": "I1", "gamemode": 0, "levelId": 81,
+        "challenges": [],
+        "display": "Level I1" },
+
+    { "sceneName": "I2", "gamemode": 0, "levelId": 82,
+        "challenges": [],
+        "display": "Level I2" },
+
+    { "sceneName": "I3", "gamemode": 0, "levelId": 83,
+        "challenges": [],
+        "display": "Level I3" },
+
+    { "sceneName": "EXP_A0", "gamemode": 1, "levelId": 0,
+        "challenges": [],
+        "display": "Level EXP_A0" },
+
+    { "sceneName": "EXP_A1", "gamemode": 1, "levelId": 1,
+        "challenges": [],
+        "display": "Level EXP_A1" },
+
+    { "sceneName": "EXP_A2", "gamemode": 1, "levelId": 2,
+        "challenges": [],
+        "display": "Level EXP_A2" },
+
+    { "sceneName": "EXP_A3", "gamemode": 1, "levelId": 3,
+        "challenges": [],
+        "display": "Level EXP_A3" },
+
+    { "sceneName": "EXP_A4", "gamemode": 1, "levelId": 4,
+        "challenges": [],
+        "display": "Level EXP_A4" },
+
+    { "sceneName": "EXP_A5", "gamemode": 1, "levelId": 5,
+        "challenges": [],
+        "display": "Level EXP_A5" },
+
+    { "sceneName": "EXP_A6", "gamemode": 1, "levelId": 6,
+        "challenges": [],
+        "display": "Level EXP_A6" },
+
+    { "sceneName": "EXP_A7", "gamemode": 1, "levelId": 7,
+        "challenges": [],
+        "display": "Level EXP_A7" },
+
+    { "sceneName": "LowGrav_00", "gamemode": 2, "levelId": 0,
+        "challenges": [],
+        "display": "Level EXP_A6" },
+
+    { "sceneName": "LowGrav_01", "gamemode": 2, "levelId": 1,
+        "challenges": [],
+        "display": "Level EXP_A6" },
+
+    { "sceneName": "LowGrav_02", "gamemode": 2, "levelId": 2,
+        "challenges": [],
+        "display": "Level EXP_A6" },
+
+    { "sceneName": "LowGrav_03", "gamemode": 2, "levelId": 3,
+        "challenges": [],
+        "display": "Level EXP_A6" },
+
+    { "sceneName": "LowGrav_04", "gamemode": 2, "levelId": 4,
+        "challenges": [],
+        "display": "Level EXP_A6" },
   ]
 }
