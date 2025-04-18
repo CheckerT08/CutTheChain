@@ -5,111 +5,154 @@
             { "comparisonMode": "Maximum", "targetObjType": "Star", "value": 1 }
         ]},
 
-    { "sceneName": "A1", "gamemode": 0, "levelId": 1 ,
+    { "sceneName": "A1", "gamemode": 0, "levelId": 1,
         "challenges": [
             { "comparisonMode": "Equal", "targetObjType": "Star", "value": 0 }
         ]},
 
-    { "sceneName": "A2", "gamemode": 0, "levelId": 2 ,
+    { "sceneName": "A2", "gamemode": 0, "levelId": 2,
         "challenges": [
             { "comparisonMode": "Equal", "targetObjType": "Star", "value": 3 }
         ]},
 
-    { "sceneName": "A3", "gamemode": 0, "levelId": 3 ,
+    { "sceneName": "A3", "gamemode": 0, "levelId": 3,
         "challenges": [
             { "comparisonMode": "Maximum", "targetObjType": "Chain", "value": 1 }
         ]},
 
-    { "sceneName": "A4", "gamemode": 0, "levelId": 4 ,
+    { "sceneName": "A4", "gamemode": 0, "levelId": 4,
         "challenges": [
             { "comparisonMode": "Equal", "targetObjType": "Chain", "value": 2 },
             { "comparisonMode": "Maximum", "targetObjType": "Star", "value": 1 }
         ]},
 
-    { "sceneName": "A5", "gamemode": 0, "levelId": 5 ,
+    { "sceneName": "A5", "gamemode": 0, "levelId": 5,
         "challenges": [
             { "comparisonMode": "Maximum", "targetObjType": "Star", "value": 1 }
         ]},
 
-    { "sceneName": "A6", "gamemode": 0, "levelId": 6 ,
+    { "sceneName": "A6", "gamemode": 0, "levelId": 6,
         "challenges": [
             { "comparisonMode": "Minimum", "targetObjType": "Time", "value": 10 }
         ]},
 
-    { "sceneName": "A7", "gamemode": 0, "levelId": 7 ,
+    { "sceneName": "A7", "gamemode": 0, "levelId": 7,
         "challenges": [
             { "comparisonMode": "Equal", "targetObjType": "Star", "value": 0 }
         ]},
 
-    { "sceneName": "A8", "gamemode": 0, "levelId": 8 ,
+    { "sceneName": "A8", "gamemode": 0, "levelId": 8,
         "challenges": [
             { "comparisonMode": "Equal", "targetObjType": "Star", "value": 2 }
         ]},
 
-    { "sceneName": "A9", "gamemode": 0, "levelId": 9 ,
+    { "sceneName": "A9", "gamemode": 0, "levelId": 9,
         "challenges": [
             { "comparisonMode": "Minimum", "targetObjType": "Star", "value": 2 },
             { "comparisonMode": "Equal", "targetObjType": "Chain", "value": 1 }
         ]},
 
 
-    { "sceneName": "B0", "gamemode": 0, "levelId": 10 ,
+    { "sceneName": "B0", "gamemode": 0, "levelId": 10,
         "challenges": [
             { "comparisonMode": "Equal", "targetObjType": "Star", "value": 0 }
         ]},
 
-    { "sceneName": "B1", "gamemode": 0, "levelId": 11 ,
+    { "sceneName": "B1", "gamemode": 0, "levelId": 11,
         "challenges": [
             { "comparisonMode": "Maximum", "targetObjType": "Star", "value": 2 }
         ]},
 
-    { "sceneName": "B2", "gamemode": 0, "levelId": 12 ,
+    { "sceneName": "B2", "gamemode": 0, "levelId": 12,
         "challenges": [
             { "comparisonMode": "Equal", "targetObjType": "Star", "value": 2 }
         ]},
 
-    { "sceneName": "B3", "gamemode": 0, "levelId": 13 ,
+    { "sceneName": "B3", "gamemode": 0, "levelId": 13,
         "challenges": [
             { "comparisonMode": "Maximum", "targetObjType": "Star", "value": 2 }
         ]},
 
-    { "sceneName": "B4", "gamemode": 0, "levelId": 14 ,
+    { "sceneName": "B4", "gamemode": 0, "levelId": 14,
         "challenges": [
             { "comparisonMode": "Minimum", "targetObjType": "Time", "value": 6 }
         ]},
 
-    { "sceneName": "B5", "gamemode": 0, "levelId": 15 ,
+    { "sceneName": "B5", "gamemode": 0, "levelId": 15,
         "challenges": [
             { "comparisonMode": "Maximum", "targetObjType": "Star", "value": 2 }
         ]},
 
-    { "sceneName": "B6", "gamemode": 0, "levelId": 16 ,
+    { "sceneName": "B6", "gamemode": 0, "levelId": 16,
         "challenges": [
             { "comparisonMode": "Equal", "targetObjType": "Star", "value": 3 },
             { "comparisonMode": "Minimum", "targetObjType": "Time", "value": 7 }
         ]},
 
-    { "sceneName": "B7", "gamemode": 0, "levelId": 17 ,
+    { "sceneName": "B7", "gamemode": 0, "levelId": 17,
         "challenges": [
             { "comparisonMode": "Equal", "targetObjType": "BreakPlatform", "value": 5 }
         ]},
 
-    { "sceneName": "B8", "gamemode": 0, "levelId": 17 ,
+    { "sceneName": "B8", "gamemode": 0, "levelId": 18,
         "challenges": [
-            { "comparisonMode": "Equal", "targetObjType": "BreakPlatform", "value": 5 }
+            { "comparisonMode": "Minimum", "targetObjType": "Time", "value": 5 }
         ]},
 
-    { "sceneName": "B9", "gamemode": 0, "levelId": 19 },
-    
-    { "sceneName": "C0", "gamemode": 0, "levelId": 20 },
-    { "sceneName": "C1", "gamemode": 0, "levelId": 21 },
-    { "sceneName": "C2", "gamemode": 0, "levelId": 22 },
-    { "sceneName": "C3", "gamemode": 0, "levelId": 23 },
-    { "sceneName": "C4", "gamemode": 0, "levelId": 24 },
-    { "sceneName": "C5", "gamemode": 0, "levelId": 25 },
-    { "sceneName": "C6", "gamemode": 0, "levelId": 26 },
-    { "sceneName": "C7", "gamemode": 0, "levelId": 27 },
-    { "sceneName": "C8", "gamemode": 0, "levelId": 28 },
+    { "sceneName": "B9", "gamemode": 0, "levelId": 19,
+        "challenges": [
+            { "comparisonMode": "Equal", "targetObjType": "Chain", "value": 4 }
+        ]},
+
+    { "sceneName": "C0", "gamemode": 0, "levelId": 20,
+        "challenges": [
+            { "comparisonMode": "Maximum", "targetObjType": "Star", "value": 2 },
+            { "comparisonMode": "Minimum", "targetObjType": "Time", "value": 5 }
+        ]},
+
+    { "sceneName": "C1", "gamemode": 0, "levelId": 21,
+        "challenges": [
+            { "comparisonMode": "Equal", "targetObjType": "Chain", "value": 4 }
+        ]},
+
+    { "sceneName": "C2", "gamemode": 0, "levelId": 22,
+        "challenges": [
+            { "comparisonMode": "Equal", "targetObjType": "Chain", "value": 2 },
+            { "comparisonMode": "Equal", "targetObjType": "Bubble", "value": 1 }
+        ]},
+
+    { "sceneName": "C3", "gamemode": 0, "levelId": 23,
+        "challenges": [
+            { "comparisonMode": "Maximum", "targetObjType": "Star", "value": 1 }
+        ]},
+
+    { "sceneName": "C4", "gamemode": 0, "levelId": 24,
+        "challenges": [
+            { "comparisonMode": "Maximum", "targetObjType": "Star", "value": 1 }
+        ]},
+
+    { "sceneName": "C5", "gamemode": 0, "levelId": 25,
+        "challenges": [
+            { "comparisonMode": "Equal", "targetObjType": "Star", "value": 0 }
+        ]},
+
+    { "sceneName": "C6", "gamemode": 0, "levelId": 26,
+        "challenges": [
+            { "comparisonMode": "Maximum", "targetObjType": "Chain", "value": 3 },
+            { "comparisonMode": "Minimum", "targetObjType": "Star", "value": 2 }
+        ]},
+
+    { "sceneName": "C7", "gamemode": 0, "levelId": 27,
+        "challenges": [
+            { "comparisonMode": "Equal", "targetObjType": "Star", "value": 2 }
+        ]},
+
+    { "sceneName": "C8", "gamemode": 0, "levelId": 28,
+        "challenges": [
+            { "comparisonMode": "Equal", "targetObjType": "Bubble", "value": 1 },
+            { "comparisonMode": "Equal", "targetObjType": "Star", "value": 3 }
+        ]},
+
     { "sceneName": "C9", "gamemode": 0, "levelId": 29 },
     
     { "sceneName": "D0", "gamemode": 0, "levelId": 30 },
@@ -182,4 +225,3 @@
     { "sceneName": "EXP_A7", "gamemode": 1, "levelId": 7 }
   ]
 }
-
