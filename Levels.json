@@ -4,99 +4,99 @@
         "challenges": [ 
             { "comparisonMode": "Maximum", "targetObjType": "Star", "value": 1 }
         ],
-        "display": "Level A0" },
+        "display": "First Chain" },
 
     { "sceneName": "A1", "gamemode": 0, "levelId": 1,
         "challenges": [
             { "comparisonMode": "Equal", "targetObjType": "Star", "value": 0 }
         ],
-        "display": "Level A1" },
+        "display": "Two Chains" },
 
     { "sceneName": "A2", "gamemode": 0, "levelId": 2,
         "challenges": [
             { "comparisonMode": "Equal", "targetObjType": "Star", "value": 3 }
         ],
-        "display": "Level A2" },
+        "display": "Hanging" },
 
     { "sceneName": "A3", "gamemode": 0, "levelId": 3,
         "challenges": [
             { "comparisonMode": "Maximum", "targetObjType": "Chain", "value": 1 }
         ],
-        "display": "Level A3" },
+        "display": "Hanging Twice" },
 
     { "sceneName": "A4", "gamemode": 0, "levelId": 4,
         "challenges": [
             { "comparisonMode": "Equal", "targetObjType": "Chain", "value": 2 },
             { "comparisonMode": "Maximum", "targetObjType": "Star", "value": 1 }
         ],
-        "display": "Level A4" },
+        "display": "What's that?" },
 
     { "sceneName": "A5", "gamemode": 0, "levelId": 5,
         "challenges": [
             { "comparisonMode": "Maximum", "targetObjType": "Star", "value": 1 }
         ],
-        "display": "Level A5" },
+        "display": "A red ball!" },
 
     { "sceneName": "A6", "gamemode": 0, "levelId": 6,
         "challenges": [
             { "comparisonMode": "Minimum", "targetObjType": "Time", "value": 10 }
         ],
-        "display": "Level A6" },
+        "display": "Friends" },
 
     { "sceneName": "A7", "gamemode": 0, "levelId": 7,
         "challenges": [
             { "comparisonMode": "Equal", "targetObjType": "Star", "value": 0 }
         ],
-        "display": "Level A7" },
+        "display": "Mikro" },
 
     { "sceneName": "A8", "gamemode": 0, "levelId": 8,
         "challenges": [
             { "comparisonMode": "Equal", "targetObjType": "Star", "value": 2 }
         ],
-        "display": "Level A8" },
+        "display": "X and H" },
 
     { "sceneName": "A9", "gamemode": 0, "levelId": 9,
         "challenges": [
             { "comparisonMode": "Minimum", "targetObjType": "Star", "value": 2 },
             { "comparisonMode": "Equal", "targetObjType": "Chain", "value": 1 }
         ],
-        "display": "Level A9" },
+        "display": "Weee" },
 
     { "sceneName": "B0", "gamemode": 0, "levelId": 10,
         "challenges": [
             { "comparisonMode": "Equal", "targetObjType": "Star", "value": 0 }
         ],
-        "display": "Level B0" },
+        "display": "Platforms" },
 
     { "sceneName": "B1", "gamemode": 0, "levelId": 11,
         "challenges": [
             { "comparisonMode": "Maximum", "targetObjType": "Star", "value": 2 }
         ],
-        "display": "Level B1" },
+        "display": "Bowling" },
 
     { "sceneName": "B2", "gamemode": 0, "levelId": 12,
         "challenges": [
             { "comparisonMode": "Equal", "targetObjType": "Star", "value": 2 }
         ],
-        "display": "Level B2" },
+        "display": "Trap" },
 
     { "sceneName": "B3", "gamemode": 0, "levelId": 13,
         "challenges": [
             { "comparisonMode": "Maximum", "targetObjType": "Star", "value": 2 }
         ],
-        "display": "Level B3" },
+        "display": "Two ways" },
 
     { "sceneName": "B4", "gamemode": 0, "levelId": 14,
         "challenges": [
             { "comparisonMode": "Minimum", "targetObjType": "Time", "value": 6 }
         ],
-        "display": "Level B4" },
+        "display": "Blocked" },
 
     { "sceneName": "B5", "gamemode": 0, "levelId": 15,
         "challenges": [
             { "comparisonMode": "Maximum", "targetObjType": "Star", "value": 2 }
         ],
-        "display": "Level B5" },
+        "display": "Swing" },
 
     { "sceneName": "B6", "gamemode": 0, "levelId": 16,
         "challenges": [
