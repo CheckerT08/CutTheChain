@@ -103,38 +103,38 @@
             { "comparisonMode": "Equal", "targetObjType": "Star", "value": 3 },
             { "comparisonMode": "Minimum", "targetObjType": "Time", "value": 7 }
         ],
-        "display": "Level B6" },
+        "display": "Jump over" },
 
     { "sceneName": "B7", "gamemode": 0, "levelId": 17,
         "challenges": [
             { "comparisonMode": "Equal", "targetObjType": "BreakPlatform", "value": 5 }
         ],
-        "display": "Level B7" },
+        "display": "Maze" },
 
     { "sceneName": "B8", "gamemode": 0, "levelId": 18,
         "challenges": [
             { "comparisonMode": "Minimum", "targetObjType": "Time", "value": 5 }
         ],
-        "display": "Level B8" },
+        "display": "Hole in one" },
 
     { "sceneName": "B9", "gamemode": 0, "levelId": 19,
         "challenges": [
             { "comparisonMode": "Equal", "targetObjType": "Chain", "value": 4 }
         ],
-        "display": "Level B9" },
+        "display": "On a timer" },
 
     { "sceneName": "C0", "gamemode": 0, "levelId": 20,
         "challenges": [
             { "comparisonMode": "Maximum", "targetObjType": "Star", "value": 2 },
             { "comparisonMode": "Minimum", "targetObjType": "Time", "value": 5 }
         ],
-        "display": "Level C0" },
+        "display": "Bubble intro" },
 
     { "sceneName": "C1", "gamemode": 0, "levelId": 21,
         "challenges": [
             { "comparisonMode": "Equal", "targetObjType": "Chain", "value": 4 }
         ],
-        "display": "Level C1" },
+        "display": "Take your time" },
 
     { "sceneName": "C2", "gamemode": 0, "levelId": 22,
         "challenges": [
