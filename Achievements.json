@@ -1,1 +1,13 @@
-sahidhgoigoihdoihdoihoih
+{
+  "list": [
+    {
+      "achievementClass": "Level",
+      "targetObj": "Classic",
+      "targetValue": 10,
+      "achievementDisplayName": "Level 10 Classic",
+      "achievementDescrName": "Schaffe 10 Classic-Levels",
+      "skinName": "golden_hat",
+      "skinType": "Hat"
+    }
+  ]
+}
