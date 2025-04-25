@@ -1,13 +1,20 @@
-{
-  "list": [
-    {
-      "achievementClass": "Level",
-      "targetObj": "Classic",
-      "targetValue": 10,
-      "achievementDisplayName": "Level 10 Classic",
-      "achievementDescrName": "Schaffe 10 Classic-Levels",
-      "skinName": "golden_hat",
-      "skinType": "Hat"
-    }
-  ]
-}
+[
+  {
+    "achievementClass": "Level",
+    "achievementClassID": "Classic",
+    "targetValue": 5,
+    "achievementDisplayName": "Hallo",
+    "achievementDescrName": "Schaffe 5 Level im Classic-Modus",
+    "skinName": "color_purple",
+    "skinType": "GreenBall"
+  },
+  {
+    "achievementClass": "Level",
+    "achievementClassID": "Classic",
+    "targetValue": 10,
+    "achievementDisplayName": "Bye",
+    "achievementDescrName": "Schaffe 10 Level im Classic-Modus",
+    "skinName": "food_pizza",
+    "skinType": "RedBall"
+  }
+]
