@@ -7,7 +7,7 @@
       "achievementDisplayName": "Hallo",
       "achievementDescrName": "Schaffe 5 Level im Classic-Modus",
       "skinName": "color_purple",
-      "skinType": "GreenBall"
+      "skinType": "GreenSkin"
     },
     {
       "achievementClass": "Level",
@@ -16,7 +16,7 @@
       "achievementDisplayName": "Bye",
       "achievementDescrName": "Schaffe 10 Level im Classic-Modus",
       "skinName": "food_pizza",
-      "skinType": "RedBall"
+      "skinType": "RedSkin"
     }
   ]
 }
