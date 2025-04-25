@@ -3,20 +3,254 @@
     {
       "achievementClass": "Level",
       "achievementClassID": "Classic",
-      "targetValue": 5,
-      "achievementDisplayName": "Hallo",
-      "achievementDescrName": "Schaffe 5 Level im Classic-Modus",
-      "skinName": "color_purple",
-      "skinType": "GreenSkin"
+      "targetValue": 10,
+      "achievementDisplayName": "Klassiker-Neuling",
+      "achievementDescrName": "Schaffe 10 Level im Classic-Modus",
+      "skinName": "PLACEHOLDER",
+      "skinType": "PLACEHOLDER"
     },
     {
       "achievementClass": "Level",
       "achievementClassID": "Classic",
+      "targetValue": 20,
+      "achievementDisplayName": "Routine-Spieler",
+      "achievementDescrName": "Schaffe 20 Level im Classic-Modus",
+      "skinName": "PLACEHOLDER",
+      "skinType": "PLACEHOLDER"
+    },
+    {
+      "achievementClass": "Level",
+      "achievementClassID": "Classic",
+      "targetValue": 30,
+      "achievementDisplayName": "Level-Profi",
+      "achievementDescrName": "Schaffe 30 Level im Classic-Modus",
+      "skinName": "PLACEHOLDER",
+      "skinType": "PLACEHOLDER"
+    },
+    {
+      "achievementClass": "Level",
+      "achievementClassID": "Classic",
+      "targetValue": 40,
+      "achievementDisplayName": "Durchstarter",
+      "achievementDescrName": "Schaffe 40 Level im Classic-Modus",
+      "skinName": "PLACEHOLDER",
+      "skinType": "PLACEHOLDER"
+    },
+    {
+      "achievementClass": "Level",
+      "achievementClassID": "Classic",
+      "targetValue": 50,
+      "achievementDisplayName": "Level-Meister",
+      "achievementDescrName": "Schaffe 50 Level im Classic-Modus",
+      "skinName": "PLACEHOLDER",
+      "skinType": "PLACEHOLDER"
+    },
+    {
+      "achievementClass": "Level",
+      "achievementClassID": "Classic",
+      "targetValue": 60,
+      "achievementDisplayName": "Veteran",
+      "achievementDescrName": "Schaffe 60 Level im Classic-Modus",
+      "skinName": "PLACEHOLDER",
+      "skinType": "PLACEHOLDER"
+    },
+    {
+      "achievementClass": "Level",
+      "achievementClassID": "Classic",
+      "targetValue": 70,
+      "achievementDisplayName": "Legende des Classic-Modus",
+      "achievementDescrName": "Schaffe 70 Level im Classic-Modus",
+      "skinName": "PLACEHOLDER",
+      "skinType": "PLACEHOLDER"
+    },
+    {
+      "achievementClass": "Level",
+      "achievementClassID": "Classic",
+      "targetValue": 80,
+      "achievementDisplayName": "Unaufhaltbar",
+      "achievementDescrName": "Schaffe 80 Level im Classic-Modus",
+      "skinName": "PLACEHOLDER",
+      "skinType": "PLACEHOLDER"
+    },
+    {
+      "achievementClass": "Level",
+      "achievementClassID": "Classic",
+      "targetValue": 90,
+      "achievementDisplayName": "Classic-Champion",
+      "achievementDescrName": "Schaffe 90 Level im Classic-Modus",
+      "skinName": "PLACEHOLDER",
+      "skinType": "PLACEHOLDER"
+    },
+    {
+      "achievementClass": "Level",
+      "achievementClassID": "Classic",
+      "targetValue": 100,
+      "achievementDisplayName": "Classic-Vollender",
+      "achievementDescrName": "Schaffe 100 Level im Classic-Modus",
+      "skinName": "PLACEHOLDER",
+      "skinType": "PLACEHOLDER"
+    },
+    {
+      "achievementClass": "Level",
+      "achievementClassID": "Expert",
       "targetValue": 10,
-      "achievementDisplayName": "Bye",
-      "achievementDescrName": "Schaffe 10 Level im Classic-Modus",
-      "skinName": "food_pizza",
-      "skinType": "RedSkin"
+      "achievementDisplayName": "Einsteiger der Elite",
+      "achievementDescrName": "Schaffe 10 Level im Expert-Modus",
+      "skinName": "PLACEHOLDER",
+      "skinType": "PLACEHOLDER"
+    },
+    {
+      "achievementClass": "Level",
+      "achievementClassID": "Expert",
+      "targetValue": 20,
+      "achievementDisplayName": "Fortgeschrittener Kämpfer",
+      "achievementDescrName": "Schaffe 20 Level im Expert-Modus",
+      "skinName": "PLACEHOLDER",
+      "skinType": "PLACEHOLDER"
+    },
+    {
+      "achievementClass": "Level",
+      "achievementClassID": "Expert",
+      "targetValue": 30,
+      "achievementDisplayName": "Experten-Anwärter",
+      "achievementDescrName": "Schaffe 30 Level im Expert-Modus",
+      "skinName": "PLACEHOLDER",
+      "skinType": "PLACEHOLDER"
+    },
+    {
+      "achievementClass": "Level",
+      "achievementClassID": "Expert",
+      "targetValue": 40,
+      "achievementDisplayName": "Taktiker",
+      "achievementDescrName": "Schaffe 40 Level im Expert-Modus",
+      "skinName": "PLACEHOLDER",
+      "skinType": "PLACEHOLDER"
+    },
+    {
+      "achievementClass": "Level",
+      "achievementClassID": "Expert",
+      "targetValue": 50,
+      "achievementDisplayName": "Elite-Meister",
+      "achievementDescrName": "Schaffe 50 Level im Expert-Modus",
+      "skinName": "PLACEHOLDER",
+      "skinType": "PLACEHOLDER"
+    },
+    {
+      "achievementClass": "Level",
+      "achievementClassID": "Expert",
+      "targetValue": 60,
+      "achievementDisplayName": "Stratege",
+      "achievementDescrName": "Schaffe 60 Level im Expert-Modus",
+      "skinName": "PLACEHOLDER",
+      "skinType": "PLACEHOLDER"
+    },
+    {
+      "achievementClass": "Level",
+      "achievementClassID": "Expert",
+      "targetValue": 70,
+      "achievementDisplayName": "Veteran der Herausforderung",
+      "achievementDescrName": "Schaffe 70 Level im Expert-Modus",
+      "skinName": "PLACEHOLDER",
+      "skinType": "PLACEHOLDER"
+    },
+    {
+      "achievementClass": "Level",
+      "achievementClassID": "Expert",
+      "targetValue": 80,
+      "achievementDisplayName": "Unbesiegbar",
+      "achievementDescrName": "Schaffe 80 Level im Expert-Modus",
+      "skinName": "PLACEHOLDER",
+      "skinType": "PLACEHOLDER"
+    },
+    {
+      "achievementClass": "Level",
+      "achievementClassID": "Expert",
+      "targetValue": 90,
+      "achievementDisplayName": "Mastermind",
+      "achievementDescrName": "Schaffe 90 Level im Expert-Modus",
+      "skinName": "PLACEHOLDER",
+      "skinType": "PLACEHOLDER"
+    },
+    {
+      "achievementClass": "Level",
+      "achievementClassID": "Expert",
+      "targetValue": 100,
+      "achievementDisplayName": "Herrscher des Expert-Modus",
+      "achievementDescrName": "Schaffe 100 Level im Expert-Modus",
+      "skinName": "PLACEHOLDER",
+      "skinType": "PLACEHOLDER"
+    },
+    {
+      "achievementClass": "Star",
+      "achievementClassID": "Star",
+      "targetValue": 5,
+      "achievementDisplayName": "Sternenjäger I",
+      "achievementDescrName": "Sammle 5 Sterne",
+      "skinName": "PLACEHOLDER",
+      "skinType": "PLACEHOLDER"
+    },
+    {
+      "achievementClass": "Star",
+      "achievementClassID": "Star",
+      "targetValue": 10,
+      "achievementDisplayName": "Sternenjäger II",
+      "achievementDescrName": "Sammle 10 Sterne",
+      "skinName": "PLACEHOLDER",
+      "skinType": "PLACEHOLDER"
+    },
+    {
+      "achievementClass": "Star",
+      "achievementClassID": "Star",
+      "targetValue": 20,
+      "achievementDisplayName": "Sternensammler",
+      "achievementDescrName": "Sammle 20 Sterne",
+      "skinName": "PLACEHOLDER",
+      "skinType": "PLACEHOLDER"
+    },
+    {
+      "achievementClass": "Star",
+      "achievementClassID": "Star",
+      "targetValue": 30,
+      "achievementDisplayName": "Galaktischer Sammler",
+      "achievementDescrName": "Sammle 30 Sterne",
+      "skinName": "PLACEHOLDER",
+      "skinType": "PLACEHOLDER"
+    },
+    {
+      "achievementClass": "Star",
+      "achievementClassID": "Star",
+      "targetValue": 45,
+      "achievementDisplayName": "Sternenkenner",
+      "achievementDescrName": "Sammle 45 Sterne",
+      "skinName": "PLACEHOLDER",
+      "skinType": "PLACEHOLDER"
+    },
+    {
+      "achievementClass": "Star",
+      "achievementClassID": "Star",
+      "targetValue": 60,
+      "achievementDisplayName": "Meister der Sterne",
+      "achievementDescrName": "Sammle 60 Sterne",
+      "skinName": "PLACEHOLDER",
+      "skinType": "PLACEHOLDER"
+    },
+    {
+      "achievementClass": "Star",
+      "achievementClassID": "Star",
+      "targetValue": 90,
+      "achievementDisplayName": "Sternenkönig",
+      "achievementDescrName": "Sammle 90 Sterne",
+      "skinName": "PLACEHOLDER",
+      "skinType": "PLACEHOLDER"
+    },
+    {
+      "achievementClass": "Star",
+      "achievementClassID": "Star",
+      "targetValue": 120,
+      "achievementDisplayName": "Sternenlegende",
+      "achievementDescrName": "Sammle 120 Sterne",
+      "skinName": "PLACEHOLDER",
+      "skinType": "PLACEHOLDER"
     }
   ]
 }
