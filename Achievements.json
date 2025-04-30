@@ -267,8 +267,8 @@
 
     {
       "achievementClass": "Star",
-      "achievementClassID": "OnLevel",
-      "targetValue": 3,
+      "achievementClassID": "3OnLevel",
+      "targetValue": 1,
       "achievementDisplayName": "Perfekter Abschluss",
       "achievementDescrName": "Sammle alle 3 Sterne in einem Level.",
       "skinName": "PLACEHOLDER",
