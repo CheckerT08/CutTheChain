@@ -78,7 +78,7 @@
         "challenges": [
             { "comparisonMode": "Equal", "targetObjType": "Star", "value": 2 }
         ],
-        "display": "Trap" },
+        "display": "Swing under" },
 
     { "sceneName": "B3", "gamemode": 0, "levelId": 13,
         "challenges": [
@@ -141,77 +141,92 @@
             { "comparisonMode": "Equal", "targetObjType": "Chain", "value": 2 },
             { "comparisonMode": "Equal", "targetObjType": "Bubble", "value": 1 }
         ],
-        "display": "Level C2" },
+        "display": "Uplift" },
 
     { "sceneName": "C3", "gamemode": 0, "levelId": 23,
         "challenges": [
             { "comparisonMode": "Maximum", "targetObjType": "Star", "value": 1 }
         ],
-        "display": "Level C3" },
+        "display": "Bowling II" },
 
     { "sceneName": "C4", "gamemode": 0, "levelId": 24,
         "challenges": [
             { "comparisonMode": "Maximum", "targetObjType": "Star", "value": 1 }
         ],
-        "display": "Level C4" },
+        "display": "Trap" },
 
     { "sceneName": "C5", "gamemode": 0, "levelId": 25,
         "challenges": [
             { "comparisonMode": "Equal", "targetObjType": "Star", "value": 0 }
         ],
-        "display": "Level C5" },
+        "display": "House" },
 
     { "sceneName": "C6", "gamemode": 0, "levelId": 26,
         "challenges": [
             { "comparisonMode": "Maximum", "targetObjType": "Chain", "value": 3 },
             { "comparisonMode": "Minimum", "targetObjType": "Star", "value": 2 }
         ],
-        "display": "Level C6" },
+        "display": "Launcher" },
 
     { "sceneName": "C7", "gamemode": 0, "levelId": 27,
         "challenges": [
             { "comparisonMode": "Equal", "targetObjType": "Star", "value": 2 }
         ],
-        "display": "Level C7" },
+        "display": "Anti-Launcher" },
 
     { "sceneName": "C8", "gamemode": 0, "levelId": 28,
         "challenges": [
             { "comparisonMode": "Equal", "targetObjType": "Bubble", "value": 1 },
             { "comparisonMode": "Equal", "targetObjType": "Star", "value": 3 }
         ],
-        "display": "Level C8" },
+        "display": "Mirrored" },
 
     { "sceneName": "C9", "gamemode": 0, "levelId": 29,
         "challenges": [],
         "display": "Level C9" },
 
     { "sceneName": "D0", "gamemode": 0, "levelId": 30,
-        "challenges": [],
-        "display": "Level D0" },
+        "challenges": [
+            { "comparisonMode": "Equal", "targetObjType": "Star", "value": 0 }
+        ],
+        "display": "Cushion Intro" },
 
     { "sceneName": "D1", "gamemode": 0, "levelId": 31,
-        "challenges": [],
-        "display": "Level D1" },
+        "challenges": [
+            { "comparisonMode": "Equal", "targetObjType": "Bubble", "value": 1 },
+            { "comparisonMode": "Equal", "targetObjType": "Star", "value": 1 }
+        ],
+        "display": "Cushion Intro" },
 
     { "sceneName": "D2", "gamemode": 0, "levelId": 32,
-        "challenges": [],
-        "display": "Level D2" },
+        "challenges": [
+            { "comparisonMode": "Equal", "targetObjType": "Star", "value": 0 }
+        ],
+        "display": "Swing over" },
 
     { "sceneName": "D3", "gamemode": 0, "levelId": 33,
-        "challenges": [],
-        "display": "Level D3" },
+        "challenges": [
+            { "comparisonMode": "Equal", "targetObjType": "Star", "value": 0 }
+        ],
+        "display": "Slope up" },
 
     { "sceneName": "D4", "gamemode": 0, "levelId": 34,
-        "challenges": [],
-        "display": "Level D4" },
+        "challenges": [
+            { "comparisonMode": "Equal", "targetObjType": "Bubble", "value": 0 }
+        ],
+        "display": "Ceiling Hitter" },
 
     { "sceneName": "D5", "gamemode": 0, "levelId": 35,
-        "challenges": [],
-        "display": "Level D5" },
+        "challenges": [
+            { "comparisonMode": "Equal", "targetObjType": "Bubble", "value": 0 }
+        ],
+        "display": "Freefly" },
 
     { "sceneName": "D6", "gamemode": 0, "levelId": 36,
-        "challenges": [],
-        "display": "Level D6" },
+        "challenges": [
+            { "comparisonMode": "Equal", "targetObjType": "Bubble", "value": 0 }
+        ],
+        "display": "Hopper" },
 
     { "sceneName": "D7", "gamemode": 0, "levelId": 37,
         "challenges": [],
@@ -226,20 +241,28 @@
         "display": "Level D9" },
 
     { "sceneName": "E0", "gamemode": 0, "levelId": 40,
-        "challenges": [],
-        "display": "Level E0" },
+        "challenges": [
+            { "comparisonMode": "Maximum", "targetObjType": "Star", "value": 2 }
+        ],
+        "display": "Portal Intro" },
 
-    { "sceneName": "E1", "gamemode": 0, "levelId": 41,
-        "challenges": [],
-        "display": "Level E1" },
+    { "sceneName": "E1", "gamemode": 0, "levelId": 42,
+        "challenges": [
+            { "comparisonMode": "Maximum", "targetObjType": "Star", "value": 1 }
+        ],
+        "display": "Reusing" },
 
-    { "sceneName": "E2", "gamemode": 0, "levelId": 42,
-        "challenges": [],
-        "display": "Level E2" },
+    { "sceneName": "E2", "gamemode": 0, "levelId": 43,
+        "challenges": [
+            { "comparisonMode": "Equal", "targetObjType": "Portal", "value": 0 }
+        ],
+        "display": "Cutting Chains" },
 
-    { "sceneName": "E3", "gamemode": 0, "levelId": 43,
-        "challenges": [],
-        "display": "Level E3" },
+    { "sceneName": "E3", "gamemode": 0, "levelId": 44,
+        "challenges": [
+            { "comparisonMode": "Equal", "targetObjType": "Portal", "value": 0 }
+        ],
+        "display": "Double sided" },
 
     { "sceneName": "E4", "gamemode": 0, "levelId": 44,
         "challenges": [],
