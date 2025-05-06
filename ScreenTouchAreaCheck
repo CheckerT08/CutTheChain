@@ -1,0 +1,56 @@
+using UnityEngine;
+
+public class ScreenTouchAreaCheck : MonoBehaviour
+{
+    // Bereichsgrenzen in Screen-Koordinaten (Pixel)
+    public Vector2 screenBottomLeft = new Vector2(100, 100);
+    public Vector2 screenTopRight = new Vector2(300, 300);
+
+    void Update()
+    {
+#if UNITY_ANDROID
+        if (Input.touchCount > 0)
+        {
+            Touch touch = Input.GetTouch(0);
+            Vector2 screenPos = touch.position;
+
+            if (IsWithinScreenArea(screenPos))
+            {
+                Debug.Log("Touch im Bereich (ANDROID)");
+            }
+        }
+#endif
+
+#if UNITY_EDITOR
+        if (Input.GetMouseButtonDown(0))
+        {
+            Vector2 screenPos = Input.mousePosition;
+
+            if (IsWithinScreenArea(screenPos))
+            {
+                Debug.Log("Mausklick im Bereich (EDITOR)");
+            }
+        }
+#endif
+    }
+
+    bool IsWithinScreenArea(Vector2 pos)
+    {
+        return pos.x >= screenBottomLeft.x && pos.x <= screenTopRight.x &&
+               pos.y >= screenBottomLeft.y && pos.y <= screenTopRight.y;
+    }
+
+    void OnGUI()
+    {
+        // Optional: Visualisierung im Editor (nur sichtbar im Game View)
+#if UNITY_EDITOR
+        Rect rect = new Rect(screenBottomLeft.x,
+                             Screen.height - screenTopRight.y,
+                             screenTopRight.x - screenBottomLeft.x,
+                             screenTopRight.y - screenBottomLeft.y);
+
+        GUI.color = new Color(0, 1, 0, 0.2f);
+        GUI.DrawTexture(rect, Texture2D.whiteTexture);
+#endif
+    }
+}
