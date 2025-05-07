@@ -1,2 +1,0 @@
-PlayerController nimmt Input über Key/Ps4 Input Sys Methoden
-PlayerController überprüft if UNITY_ANDROID jeden frame ob Touch Raycast in einem Bereich ist -> Var setzen
